@@ -1,0 +1,43 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - '2021-10-13 06:26:14.398169'
+    - '2021-10-13 06:26:14.398169'
+
+---
+posts:
+  columns:
+  - id
+  - title
+  - body
+  - created_at
+  - updated_at
+  records: 
+  - - 9
+    - Item 1
+    - Item 1 is the first
+    - '2021-10-13 08:24:57.141788'
+    - '2021-10-13 08:24:57.141788'
+  - - 10
+    - Item 2
+    - Item 2 is the second
+    - '2021-10-13 08:24:57.147962'
+    - '2021-10-13 08:24:57.147962'
+  - - 11
+    - Item 3
+    - this is Item 3
+    - '2021-10-13 08:24:57.151312'
+    - '2021-10-13 08:24:57.151312'
+  - - 12
+    - Item 4
+    - this is Item 4
+    - '2021-10-13 08:24:57.154643'
+    - '2021-10-13 08:24:57.154643'
